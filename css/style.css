@@ -112,7 +112,7 @@ ul {
 
 /* _________________________________section-hero */
 .section-hero-wrapper {
-    background-image: url("../img/hero-fon.jpg");
+    background-image: url("img/hero-fon.jpg");
     background-repeat: no-repeat;   
     background-size: cover;
     margin-top: -96px;    
@@ -179,7 +179,7 @@ ul {
 .section-advantages {
 }
 .section-advantages-wrapper {
-    background-image: url("/img/advantages-fon.svg");
+    background-image: url("img/advantages-fon.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
